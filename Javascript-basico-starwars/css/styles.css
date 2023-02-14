@@ -1,0 +1,33 @@
+
+
+.characters{
+
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.item img{
+
+    width: 200px;
+}
+
+h1{
+
+    color:red
+}
+#app {
+
+    text-align: center;
+    background-color: rgb(94, 82, 82); 
+    width: 800px;
+    margin: auto;
+    
+}
+#yoda p{
+
+    color: purple;
+}
+#luke p{
+
+    color: green
+}
